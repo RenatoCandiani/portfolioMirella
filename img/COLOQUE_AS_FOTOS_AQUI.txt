@@ -1,0 +1,8 @@
+Coloque aqui as fotos da atriz (headshots, fotos de trabalhos, bastidores).
+
+Dica de nomes:
+  foto1.jpg, foto2.jpg, foto3.jpg ...
+  perfil.jpg   (foto principal da seção "Sobre")
+
+Depois, no arquivo index.html, troque os blocos de placeholder pelas imagens.
+O passo a passo está no README.md.

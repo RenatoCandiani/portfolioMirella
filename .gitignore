@@ -1,0 +1,11 @@
+# Dados pessoais / material de referência — NÃO publicar no repositório público
+docs/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs e temporários
+*.log
+build.log
