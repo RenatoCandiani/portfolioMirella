@@ -1,0 +1,28 @@
+COMO ORGANIZAR AS FOTOS DA MIRELLA
+==================================
+
+Coloque cada foto na pasta da categoria certa. Pode usar QUALQUER nome de
+arquivo (IMG_1234.jpg, make-preta.png, etc.) — NÃO precisa renomear, nem
+precisa numerar em ordem.
+
+Pastas (categorias):
+
+  book/        Retratos e ensaios fotográficos.
+               -> A primeira vira a FOTO DO INÍCIO (hero) e todas entram
+                  na pilha de fotos do "Sobre".
+
+  make/        Maquiagens.
+               -> Aparecem na seção "Maquiagem & Caracterização".
+
+  cena/        Fotos de espetáculos, sets e trabalhos (teatro, publi, TV).
+               -> Aparecem na "Galeria", na aba "Cena".
+
+  trajetoria/  Bastidores e momentos marcantes da carreira.
+               -> Aparecem na "Galeria", na aba "Trajetória".
+
+Formatos aceitos: .jpg, .jpeg, .png, .webp
+
+Quer outra categoria (ex.: "publi", "bastidores")? É só falar que eu crio.
+
+Depois de colocar as fotos nas pastas, me avise aqui no chat que eu conecto
+tudo ao site e elas aparecem automaticamente.

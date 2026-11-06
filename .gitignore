@@ -9,3 +9,10 @@ desktop.ini
 # Logs e temporários
 *.log
 build.log
+
+# Visualização gerada pelo agente (não publicar)
+/shot.png
+/preview-shot.html
+
+# Temporários de compressão de vídeo
+*.tmp.mp4
