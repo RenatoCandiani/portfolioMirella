@@ -16,3 +16,4 @@ build.log
 
 # Temporários de compressão de vídeo
 *.tmp.mp4
+*.tc.jpg
