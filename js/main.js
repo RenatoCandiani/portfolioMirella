@@ -111,4 +111,15 @@ document.addEventListener("DOMContentLoaded", function () {
       lightbox.setAttribute("aria-hidden", "false");
     });
   });
+
+  /* Fotos dos trabalhos: clique abre ampliada no lightbox */
+  document.querySelectorAll(".foto").forEach(function (foto) {
+    foto.addEventListener("click", function () {
+      var src = foto.getAttribute("data-full");
+      if (!src || !lightbox) return;
+      lightboxContent.innerHTML = '<img src="' + src + '" alt="" style="max-width:90vw;max-height:85vh;border-radius:4px">';
+      lightbox.classList.add("open");
+      lightbox.setAttribute("aria-hidden", "false");
+    });
+  });
 });
